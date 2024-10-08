@@ -1,0 +1,5 @@
+uname - check kernal version of system of linux
+  - "-a" for all   hostname os kernal relasese version arcutecture
+  - "-v" kernal version
+  - "r" kerenal release
+
